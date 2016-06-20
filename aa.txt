@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ﻿Thái khắc Điệp
 12121212
 commit lần 45
+=======
+cdcdc
+>>>>>>> 2f4b10e9c3b9212c7b7d909683bf1b25f9398822
