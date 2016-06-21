@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿pro a
 fdsfsf
 Thái Khắc Điệp
+=======
+pro a
+
+Thái Khắc Điệpdsdsdsds
+>>>>>>> 75ac7234989c908983539f7feab015420f511de9
